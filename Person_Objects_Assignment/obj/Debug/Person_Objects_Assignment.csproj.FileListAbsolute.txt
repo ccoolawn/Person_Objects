@@ -1,0 +1,20 @@
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\bin\Debug\Person_Objects_Assignment.exe.config
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\bin\Debug\Person_Objects_Assignment.exe
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\bin\Debug\Person_Objects_Assignment.pdb
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.csprojResolveAssemblyReference.cache
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.Form1.resources
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.Properties.Resources.resources
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.csproj.GenerateResource.Cache
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.csproj.CoreCompileInputs.cache
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.exe
+X:\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.pdb
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\bin\Debug\Person_Objects_Assignment.exe.config
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\bin\Debug\Person_Objects_Assignment.exe
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\bin\Debug\Person_Objects_Assignment.pdb
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.csprojResolveAssemblyReference.cache
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.Form1.resources
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.Properties.Resources.resources
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.csproj.GenerateResource.Cache
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.csproj.CoreCompileInputs.cache
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.exe
+\\Mac\Cloud Drives\OneDrive - Renton Technical College\Intro to Csharp Programming\Person_Objects_Assignment\Person_Objects_Assignment\obj\Debug\Person_Objects_Assignment.pdb
